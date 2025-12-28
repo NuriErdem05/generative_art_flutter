@@ -1,8 +1,11 @@
+# Bu klasörleri hesaplamadan çıkar
 android/* linguist-vendored
 ios/* linguist-vendored
 linux/* linguist-vendored
 macos/* linguist-vendored
 windows/* linguist-vendored
 web/* linguist-vendored
+
+# CMake dosyalarını görmezden gel
 *.cmake linguist-vendored
 CMakeLists.txt linguist-vendored
